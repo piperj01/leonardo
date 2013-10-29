@@ -1,0 +1,13 @@
+<project>
+     <name>Leonardo</name>
+     <modelVersion>4.0.0</modelVersion>
+     <groupId>com.piper</groupId>
+     <version>1.0</version>
+     <artifactId>containingProject</artifactId>
+     <packaging>pom</packaging>
+     <modules>
+       <module>leonardoBackend</module>
+       <module>leonardoFrontend</module>
+     </modules>
+ </project>
+
